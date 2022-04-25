@@ -1,1 +1,2 @@
-Link para download do Git:  https://git-scm.com/downloads
+Link de video reforço para o entendimento do Git/GitHub: https://www.youtube.com/watch?v=_hZf1teRFNg
+Códigos importantes no git: https://www.codigofonte.com.br/artigos/top-25-comandos-do-git
